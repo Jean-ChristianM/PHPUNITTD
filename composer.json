@@ -1,0 +1,12 @@
+{
+    "name": "pro7/phpunittd",
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "authors": [
+        {
+            "name": "JC Martinez",
+            "email": "jan.chrim@gmail.com"
+        }
+    ]
+}
