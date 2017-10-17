@@ -1,0 +1,17 @@
+{
+    "name": "pro7/testphpunit",
+	
+	"autoload": {
+		"psr-4": {"":"src/"}
+		},
+	
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "authors": [
+        {
+            "name": "JC Martinez",
+            "email": "jan.chrim@gmail.com"
+        }
+    ]
+}
